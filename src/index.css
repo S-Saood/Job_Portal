@@ -30,6 +30,10 @@
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.09);
 }
 
+.header h3{
+  font-size: 30px;
+}
+
 .desktop-menu {
   display: flex;
   gap: 25px;
