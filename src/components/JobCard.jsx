@@ -3,7 +3,7 @@ import jobsData from '../index.js'
 
 
 
-const JobCards = () => {
+const JobCard = () => {
 
   return (
     <section className="jobs-section">
@@ -33,5 +33,5 @@ const JobCards = () => {
   );
 };
 
-export default JobCards;
+export default JobCard
 

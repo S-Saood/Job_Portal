@@ -7,7 +7,7 @@ import Hero from './components/Hero.jsx'
 // import Main from './components/Main.jsx'
 import ChooseUs from './components/Choseus.jsx'
 import CandidatesCards from './components/CandidatesCards.jsx'
-import JobCards from './components/JobCards.jsx'
+import JobCard from './components/JobCard.jsx'
 
 
 function App() {
@@ -16,7 +16,7 @@ function App() {
     <Header />
     <Hero />
     <CandidatesCards />
-    <JobCards />
+    <JobCard />
     <ChooseUs />
     <Footer />
     </div>
